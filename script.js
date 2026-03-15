@@ -38,6 +38,10 @@ function printFoodRecommendation(foodName) {
 
 // 4b. Call the function at least 3 times
 
+printFoodRecommendation("Ramen");
+printFoodRecommendation("Tacos");
+printFoodRecommendation("Sushi");
+
 
 
 // Here's a list of 50 friends' favorite foods:

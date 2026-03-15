@@ -61,6 +61,7 @@ for (let i = 0; i < friendFavorites.length; i++) {
 
 
 // 6. Store the result in an array called foodsWithA. Print out the array.
+console.log("Foods with the letter 'a':", foodsWithA);
 
 
 

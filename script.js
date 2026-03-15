@@ -66,6 +66,7 @@ console.log("Foods with the letter 'a':", foodsWithA);
 
 
 // 7. Create a new array longFoodNames for foods with names longer than 6 characters.
+let longFoodNames = [];
 
 
 

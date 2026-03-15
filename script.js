@@ -86,6 +86,14 @@ for (let i = 0; i < friendFavorites.length; i++) {
 
 // 9. Print both arrays and compare:
 // "There are more long-named foods." OR "There are more short-named foods."
+console.log("Long food names:", longFoodNames);
+console.log("Short food names:", shortFoodNames);
+
+if (longFoodNames.length > shortFoodNames.length) {
+    console.log("There are more long-named foods.");
+} else {
+    console.log("There are more short-named foods.");
+}
 
 
 // 10. STRETCH: Find the longest food name and print:
